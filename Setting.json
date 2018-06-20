@@ -1,7 +1,7 @@
 {
   "version": 1.00,
   "sqldb": {
-    "Connection": "Server=OAC-SQL2012\\MSSQLSERVER2014;Database=PlayerManagement;Intregrated Security=true;",
+    "Connection": "Server=OAC-SQL2012\\MSSQLSERVER2014;Database=PlayerManagement;Intregrated Security=false;",
     "PullFrequency": 1,
     "DateFormat": "yyyy-MM-dd HH:mm:ss.fff",
     "LastUpdate": ""
